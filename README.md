@@ -1,6 +1,9 @@
 Python Optimal Leaf Ordering for Hierarchical Clustering
 ========================================================
 
+NOTE: Repo archived (functionality incorporated in scipy.cluster.hierarchy.linkage v1.0.0)
+------------------------------------------------------------------------------------------
+
 [![Build Status](https://travis-ci.org/dcroote/polo.svg?branch=master)](https://travis-ci.org/dcroote/polo)
 
 Polo is a python script to obtain optimal linear ordering of hierarchical clusters, 
